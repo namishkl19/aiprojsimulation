@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 plotly
-pulp
+pulp==3.3.2
